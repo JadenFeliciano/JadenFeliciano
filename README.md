@@ -1,7 +1,7 @@
 - 👋 Hello! My name is Jaden Samuel Feliciano.
 - 👀 I’m interested in video games and all things technological.
 - 🤖 I’m currently learning new coding practices by working on some projects.
-- 👷 I’m currently looking to find employment within game development and/or entry-level programmer.
+- 👷 I’m currently looking to find employment within game development and/or entry-level programming.
 - 📫 If you'd like to get into contact, email me: jadenfeliciano@gmail.com
 
 <!---
