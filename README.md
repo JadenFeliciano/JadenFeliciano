@@ -2,7 +2,7 @@
 - 👀 I’m interested in video games and all things technological.
 - 🤖 Currently I'm learning coding and media practices by working on new projects.
 - 👷 On the lookout for employment within game development, 3D modeling, and/or entry-level programming.
-- 📫 If you'd like to get into contact, I always check my email: jadenfeliciano@gmail.com
+- 📫 If you'd like to get into contact, I constantly check my email: jadenfeliciano@gmail.com / felicij@sunypoly.edu
 
 <!---
 JadenFeliciano/JadenFeliciano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
